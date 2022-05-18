@@ -2,9 +2,12 @@
 # CSS - De Maqueta a Realidad
 
 <div align="center">
-  <img src="./readme_icons/html-shield.svg" title="React" alt="React" />
+  <img src="./readme_icons/html-shield.svg#gh-light-mode-only" title="React" alt="React" />
   &nbsp;
-  <img src="./readme_icons/css-shield.svg" title="React" alt="React" />
+  <img src="./readme_icons/css-shield.svg#gh-light-mode-only" title="React" alt="React" />
+  <img src="./readme_icons/html-shield-dark.svg#gh-dark-mode-only" title="React" alt="React" />
+  &nbsp;
+  <img src="./readme_icons/css-shield-dark.svg#gh-dark-mode-only" title="React" alt="React" />
   <p>Este repo provee una manera de convertir un diseño base en una página web empleando herramientas básicas.</p>
 </div>
 
