@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  flex-direction: column;
+
+  gap: 1.2rem;
+}
+
+.header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+
+  margin-top: 2rem;
+}
+
+.header .wrapper {
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+}
+
+.header .logo {
+  /* font-size: 2.9vmin;
+  font-family: "Zen Kaku Gothic Antique", sans-serif; */
+  font: 2.9vmin "League Gothic", sans-serif;
+
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+
+}
+
+.header .menu {
+  list-style-type: none;
+
+  display: flex;
+  gap: 1.5rem;
+
+  font-weight: bold;
+  font-size: larger;
+}
